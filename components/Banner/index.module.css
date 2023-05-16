@@ -1,0 +1,35 @@
+
+.title{
+    align-self: flex-start;
+    margin-left: 23%;  
+    align-self: flex-start;
+    margin-left: 268px;
+    margin-top: 73px;
+}
+.text{
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 400;
+}
+.btn{
+    margin-left: 324px;
+    margin-top: 15px;
+}
+.leftImage{
+    top: 260px;
+    left: 8%;
+    height: 250px;
+    bottom: -140px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+.rightImage{
+    width: 30%;
+    top: -76px;
+    right:0%;
+    border-top-right-radius: 40px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 40px; 
+}
