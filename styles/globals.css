@@ -3,3 +3,11 @@
 body,html {
   font-family: "Raleway", sans-serif;
 }
+.swiper-button-prev,
+.swiper-button-next
+{
+  color: #41644A !important;
+}
+.swiper-pagination-progressbar-fill{
+  background-color:#41644A !important;
+}
