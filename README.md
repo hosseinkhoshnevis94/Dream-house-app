@@ -15,10 +15,10 @@ Here's the technology stack used in this project:
   - [Chakra UI](https://chakra-ui.com/) - A simple, modular component and utility framework for React.
   - [React Icons](https://react-icons.github.io/react-icons/) - A library of popular icons for React applications.
   - [Swiper](https://swiperjs.com/) - A modern, mobile-friendly slider library for touch-swiping.
-  - 
+    
 - **Backend and API**:
   - [Axios](https://axios-http.com/) - A promise-based HTTP client for making API requests.
-  - 
+    
 - **UI/UX**:
   - [NProgress](https://ricostacruz.com/nprogress/) - A slim progress bar at the top of the page to indicate page loading.
 
