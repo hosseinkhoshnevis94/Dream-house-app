@@ -16,7 +16,6 @@ const filterProperties = (queryName,queryValue) =>{
       flexWrap={"wrap"}
       borderBottom={"1px solid #dfdfdf"}
       paddingY={"15px"}
-      borderRadius={"16px"}
       marginTop={"50px"}
     >
       {filterData.map((selecBox) => (
