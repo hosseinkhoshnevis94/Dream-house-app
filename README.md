@@ -2,6 +2,9 @@
 
 Dream Home is a real estate project built with Next.js, Chakra UI, React Icons, NProgress, Axios, and Swiper. It allows users to browse and search for properties available for rent or sale, view property details, and more.
 
+## Demo
+
+You can see a live demo of the project at https://real-state-app-five.vercel.app.
 
 ## Tech Stack
 
@@ -19,9 +22,6 @@ Here's the technology stack used in this project:
 - **UI/UX**:
   - [NProgress](https://ricostacruz.com/nprogress/) - A slim progress bar at the top of the page to indicate page loading.
 
-## Demo
-
-You can see a live demo of the project at https://real-state-app-five.vercel.app.
 
 ## Features
 
