@@ -42,7 +42,7 @@ const propertyDetail = ({ propertyData:{photos,rooms,baths,area,title,descriptio
  
 
     {amenities &&(<Text fontSize={'20px'} fontWeight={'700'} paddingY={'25px'}>Facilities:</Text>)}
-    {amenities &&( <Box display={'flex'} justifyContent={'flex-start'} columnGap={'10px'} flexWrap={'wrap'}>{amenities.map(item => <Text backgroundColor={'#E1E0D0'} border={'1px solid rgba(0, 0, 0, 0.25)'} boxShadow={'1px 2px 5px rgba(0, 0, 0, 0.1)'} borderRadius={'10px'} padding={'4px 8px'}>{item.text}</Text> )}</Box> )}
+    {amenities &&( <Box display={'flex'} justifyContent={'flex-start'} gap={'10px'} flexWrap={'wrap'}>{amenities.map(item => <Text backgroundColor={'#E1E0D0'} border={'1px solid rgba(0, 0, 0, 0.25)'} boxShadow={'1px 2px 5px rgba(0, 0, 0, 0.1)'} borderRadius={'10px'} padding={'4px 8px'}>{item.text}</Text> )}</Box> )}
     
   </Box>;
 };
