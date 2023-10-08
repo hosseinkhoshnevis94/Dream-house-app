@@ -6,19 +6,22 @@ Dream Home is a real estate project built with Next.js, Chakra UI, React Icons, 
 ## Tech Stack
 
 Here's the technology stack used in this project:
+
 - **Frontend**:
   - [Next.js](https://nextjs.org/) - React framework for server-rendered applications.
   - [Chakra UI](https://chakra-ui.com/) - A simple, modular component and utility framework for React.
   - [React Icons](https://react-icons.github.io/react-icons/) - A library of popular icons for React applications.
   - [Swiper](https://swiperjs.com/) - A modern, mobile-friendly slider library for touch-swiping.
+  - 
 - **Backend and API**:
   - [Axios](https://axios-http.com/) - A promise-based HTTP client for making API requests.
+  - 
 - **UI/UX**:
   - [NProgress](https://ricostacruz.com/nprogress/) - A slim progress bar at the top of the page to indicate page loading.
 
 ## Demo
 
-You can see a live demo of the project at [Demo Link]([insert-demo-link-here](https://real-state-app-five.vercel.app/)).
+You can see a live demo of the project at https://real-state-app-five.vercel.app.
 
 ## Features
 
@@ -27,8 +30,10 @@ You can see a live demo of the project at [Demo Link]([insert-demo-link-here](ht
   - Banner section for highlighting featured properties.
   - Sections for properties available for rent and sale.
   - Footer with contact information and links.
+    
 - **Search Page**:
   - Search and filter properties based on various criteria.
+    
 - **Property Detail Page**:
   - Detailed information about a selected property, including:
     - Property images.
@@ -39,6 +44,7 @@ You can see a live demo of the project at [Demo Link]([insert-demo-link-here](ht
 ## Getting Started
 
 To get started with this project, follow these steps:
+
 1. Clone the repository:
     git clone (https://github.com/hosseinkhoshnevis94/Real-state-app.git)
 3. Install project dependencies by running:
