@@ -29,6 +29,7 @@ const PropertyCard = ({ property }) => {
       boxShadow={"1px 2px 4px rgba(0, 0, 0, 0.25)"}
       overflow={"hidden"}
     >
+<Link href={`/property/${externalID}`} passHref>
       <Image
         height={"60%"}
         width={"100%"}
@@ -36,6 +37,7 @@ const PropertyCard = ({ property }) => {
         // src={"./home.jpg"}
         alt="home house rent buy"
       ></Image>
+  </Link>
       <Box
         display={"flex"}
         flexDirection={"column"}
