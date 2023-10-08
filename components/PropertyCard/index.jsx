@@ -30,7 +30,7 @@ const PropertyCard = ({ property }) => {
       overflow={"hidden"}
     >
       <Image
-        height={"auto"}
+        height={"50%"}
         width={"100%"}
         src={coverPhoto.url}
         // src={"./home.jpg"}
