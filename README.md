@@ -1,4 +1,4 @@
-# Dream Home 
+# Dream House 
 
 Dream Home is a real estate project built with Next.js, Chakra UI, React Icons, NProgress, Axios, and Swiper. It allows users to browse and search for properties available for rent or sale, view property details, and more.
 
