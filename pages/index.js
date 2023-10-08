@@ -16,7 +16,7 @@ export default function Home({propertyForRent,propertyForSale}) {
   return (
     <>
       <Head>
-        <title>Dream Home</title>
+        <title>Dream House</title>
         <meta name="description" content="find your dream place" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favaicon.png" />
